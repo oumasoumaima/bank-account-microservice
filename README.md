@@ -192,10 +192,10 @@ curl -X POST http://localhost:8081/graphql \
 ![Postman REST](screenshots/postman-rest.png)
 
 ### 5. GraphQL - Interface GraphiQL Query
-![GraphiQL](screenshots/graphiql query.png)
+![GraphiQL](screenshots/graphiqlQuery.png)
 
 ### 6. GraphQL - Interface GraphiQL Mutation
-![Data REST](screenshots/graphiql mutation.png)
+![Data REST](screenshots/graphiqlMutation.png)
 
 
 
