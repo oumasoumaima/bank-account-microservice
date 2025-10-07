@@ -191,9 +191,8 @@ curl -X POST http://localhost:8081/graphql \
 ### 4. Test Postman - API REST
 ![Postman REST](screenshots/postman-rest.png)
 
-> **Note** : Pour tester l'API GraphQL, j'ai utilisé l'extension **GraphiQL** dans le navigateur au lieu de l'interface GraphiQL intégrée qui avait des problèmes de chargement de ressources externes.
-
 ### 5. GraphQL - Interface GraphiQL Query
+> **Note** : Pour tester l'API GraphQL, j'ai utilisé l'extension **GraphiQL** dans le navigateur au lieu de l'interface GraphiQL intégrée qui avait des problèmes de chargement de ressources externes.
 ![GraphiQL](screenshots/graphiqlQuery.png)
 
 ### 6. GraphQL - Interface GraphiQL Mutation
